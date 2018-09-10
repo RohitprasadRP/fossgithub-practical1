@@ -1,0 +1,4 @@
+aim=arithmatic operation a=int(input("enter value for a")
+b=int(input("enter value  for b")
+print(a+b)
+ans= enter value for a=85 and for b=35 addition:120
